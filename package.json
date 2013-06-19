@@ -1,6 +1,6 @@
 {
   "name": "mongoose-user",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Some generic methods, statics and virtuals used for user schemas",
   "main": "index.js",
   "scripts": {
